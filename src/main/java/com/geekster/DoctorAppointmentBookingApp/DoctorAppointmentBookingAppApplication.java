@@ -10,4 +10,8 @@ public class DoctorAppointmentBookingAppApplication {
 		SpringApplication.run(DoctorAppointmentBookingAppApplication.class, args);
 	}
 
+	public static void stop(){
+		String nasme = "jdsdjbv";
+	}
+
 }
