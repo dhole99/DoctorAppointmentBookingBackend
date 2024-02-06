@@ -38,4 +38,8 @@ public class DoctorAppointmentBookingAppApplication {
 
     }
 
+	public static void stop(){
+		String nasme = "jdsdjbv";
+	}
+
 }
